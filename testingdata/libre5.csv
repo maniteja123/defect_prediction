@@ -1,0 +1,980 @@
+Bug ID,Product,Component,Version,Opened
+91187,LibreOffice,Impress,5.0.0.0.alpha0+ Master,09-05-15 15:43
+92483,LibreOffice,Installation,5.0.0.0.alpha0+ Master,01-07-15 19:02
+92940,LibreOffice,Linguistic,5.0.0.0.alpha0+ Master,26-07-15 12:32
+92068,LibreOffice,Documentation,5.0.0.0.alpha0+ Master,14-06-15 20:31
+94509,LibreOffice,UI,5.0.0.0.alpha0+ Master,25-09-15 15:13
+85767,LibreOffice,UI,5.0.0.0.alpha0+ Master,02-11-14 18:00
+90964,LibreOffice,Writer,5.0.0.0.alpha0+ Master,30-04-15 13:13
+90965,LibreOffice,UI,5.0.0.0.alpha0+ Master,30-04-15 13:17
+90987,LibreOffice,Draw,5.0.0.0.alpha0+ Master,01-05-15 9:36
+91158,LibreOffice,UI,5.0.0.0.alpha0+ Master,08-05-15 11:49
+91167,LibreOffice,Writer,5.0.0.0.alpha0+ Master,08-05-15 17:25
+91250,LibreOffice,Chart,5.0.0.0.alpha0+ Master,13-05-15 5:18
+91251,LibreOffice,Calc,5.0.0.0.alpha0+ Master,13-05-15 6:01
+91310,LibreOffice,graphics stack,5.0.0.0.alpha0+ Master,15-05-15 16:53
+91329,LibreOffice,Calc,5.0.0.0.alpha0+ Master,16-05-15 18:42
+91330,LibreOffice,Chart,5.0.0.0.alpha0+ Master,16-05-15 19:00
+91368,LibreOffice,Writer,5.0.0.0.alpha0+ Master,19-05-15 0:11
+91388,LibreOffice,filters and storage,5.0.0.0.alpha0+ Master,19-05-15 12:48
+91408,LibreOffice,Writer,5.0.0.0.alpha0+ Master,20-05-15 12:19
+91533,LibreOffice,UI,5.0.0.0.alpha0+ Master,23-05-15 16:15
+91632,LibreOffice,Writer,5.0.0.0.alpha0+ Master,26-05-15 8:38
+91654,LibreOffice,Calc,5.0.0.0.alpha0+ Master,26-05-15 23:00
+91691,LibreOffice,Calc,5.0.0.0.alpha0+ Master,28-05-15 6:04
+91784,LibreOffice,Android Viewer,5.0.0.0.alpha0+ Master,31-05-15 22:05
+91941,LibreOffice,Android Viewer,5.0.0.0.alpha0+ Master,08-06-15 18:08
+92079,LibreOffice,BASIC,5.0.0.0.alpha0+ Master,15-06-15 7:20
+92182,LibreOffice,Writer,5.0.0.0.alpha0+ Master,19-06-15 12:57
+93309,LibreOffice,UI,5.0.0.0.alpha0+ Master,09-08-15 19:22
+93848,LibreOffice,Base,5.0.0.0.alpha0+ Master,02-09-15 6:42
+93902,LibreOffice,LibreOffice,5.0.0.0.alpha0+ Master,03-09-15 20:36
+94117,LibreOffice,graphics stack,5.0.0.0.alpha0+ Master,11-09-15 0:31
+76570,LibreOffice,UI,5.0.0.0.alpha0+ Master,24-03-14 20:52
+94174,LibreOffice,UI,5.0.0.0.alpha0+ Master,12-09-15 22:16
+91520,LibreOffice,UI,5.0.0.0.alpha0+ Master,23-05-15 11:55
+91522,LibreOffice,UI,5.0.0.0.alpha0+ Master,23-05-15 12:35
+89884,LibreOffice,Localization,5.0.0.0.alpha0+ Master,08-03-15 10:29
+90966,LibreOffice,Calc,5.0.0.0.alpha0+ Master,30-04-15 13:29
+91012,LibreOffice,ux-advise,5.0.0.0.alpha0+ Master,02-05-15 10:00
+91130,LibreOffice,ux-advise,5.0.0.0.alpha0+ Master,07-05-15 12:15
+91197,LibreOffice,LibreOffice,5.0.0.0.alpha0+ Master,10-05-15 10:29
+91331,LibreOffice,Chart,5.0.0.0.alpha0+ Master,16-05-15 19:05
+91439,LibreOffice,LibreOffice,5.0.0.0.alpha0+ Master,21-05-15 19:29
+91441,LibreOffice,ux-advise,5.0.0.0.alpha0+ Master,21-05-15 21:34
+91508,LibreOffice,ux-advise,5.0.0.0.alpha0+ Master,23-05-15 7:56
+91806,LibreOffice,sdk,5.0.0.0.alpha0+ Master,02-06-15 8:13
+91811,LibreOffice,Draw,5.0.0.0.alpha0+ Master,02-06-15 13:31
+91827,LibreOffice,Impress,5.0.0.0.alpha0+ Master,03-06-15 12:23
+91829,LibreOffice,ux-advise,5.0.0.0.alpha0+ Master,03-06-15 12:44
+94537,LibreOffice,Calc,5.0.0.0.alpha0+ Master,26-09-15 21:12
+90830,LibreOffice,UI,5.0.0.0.alpha0+ Master,24-04-15 11:46
+91571,LibreOffice,Writer,5.0.0.0.alpha0+ Master,24-05-15 9:31
+91327,LibreOffice,UI,5.0.0.0.alpha0+ Master,16-05-15 16:38
+91870,LibreOffice,Writer,5.0.0.0.beta1,05-06-15 7:53
+93754,LibreOffice,graphics stack,5.0.0.0.beta1,29-08-15 0:05
+91473,LibreOffice,Installation,5.0.0.0.beta1,22-05-15 12:24
+91489,LibreOffice,Calc,5.0.0.0.beta1,22-05-15 17:27
+91759,LibreOffice,Calc,5.0.0.0.beta1,30-05-15 21:51
+91800,LibreOffice,Extensions,5.0.0.0.beta1,01-06-15 17:38
+91972,LibreOffice,LibreOffice,5.0.0.0.beta1,09-06-15 18:22
+91992,LibreOffice,Documentation,5.0.0.0.beta1,10-06-15 20:21
+91447,LibreOffice,Calc,5.0.0.0.beta1,22-05-15 7:01
+91449,LibreOffice,Impress,5.0.0.0.beta1,22-05-15 7:25
+91451,LibreOffice,Writer,5.0.0.0.beta1,22-05-15 7:59
+91454,LibreOffice,Calc,5.0.0.0.beta1,22-05-15 8:49
+91457,LibreOffice,Calc,5.0.0.0.beta1,22-05-15 9:55
+91466,LibreOffice,UI,5.0.0.0.beta1,22-05-15 11:35
+91470,LibreOffice,Printing and PDF export,5.0.0.0.beta1,22-05-15 11:59
+91475,LibreOffice,Calc,5.0.0.0.beta1,22-05-15 12:29
+91477,LibreOffice,Calc,5.0.0.0.beta1,22-05-15 12:54
+91488,LibreOffice,graphics stack,5.0.0.0.beta1,22-05-15 17:03
+91500,LibreOffice,Writer,5.0.0.0.beta1,22-05-15 20:45
+91504,LibreOffice,Impress,5.0.0.0.beta1,23-05-15 1:09
+91509,LibreOffice,Writer,5.0.0.0.beta1,23-05-15 9:40
+91511,LibreOffice,UI,5.0.0.0.beta1,23-05-15 10:20
+91526,LibreOffice,Localization,5.0.0.0.beta1,23-05-15 13:27
+91583,LibreOffice,Impress,5.0.0.0.beta1,24-05-15 17:02
+91615,LibreOffice,UI,5.0.0.0.beta1,25-05-15 13:28
+91618,LibreOffice,UI,5.0.0.0.beta1,25-05-15 16:01
+91643,LibreOffice,Impress,5.0.0.0.beta1,26-05-15 15:12
+91677,LibreOffice,UI,5.0.0.0.beta1,27-05-15 21:47
+91687,LibreOffice,filters and storage,5.0.0.0.beta1,28-05-15 5:08
+91706,LibreOffice,Android Viewer,5.0.0.0.beta1,28-05-15 19:28
+91747,LibreOffice,Calc,5.0.0.0.beta1,30-05-15 11:14
+91767,LibreOffice,Formula Editor,5.0.0.0.beta1,31-05-15 5:35
+91778,LibreOffice,Calc,5.0.0.0.beta1,31-05-15 16:00
+91854,LibreOffice,filters and storage,5.0.0.0.beta1,04-06-15 10:07
+91966,LibreOffice,LibreOffice,5.0.0.0.beta1,09-06-15 13:28
+91997,LibreOffice,Calc,5.0.0.0.beta1,11-06-15 3:18
+92016,LibreOffice,BASIC,5.0.0.0.beta1,11-06-15 22:46
+92052,LibreOffice,UI,5.0.0.0.beta1,13-06-15 22:16
+92072,LibreOffice,Documentation,5.0.0.0.beta1,14-06-15 21:44
+92221,LibreOffice,Impress,5.0.0.0.beta1,21-06-15 7:52
+92222,LibreOffice,Impress,5.0.0.0.beta1,21-06-15 8:03
+92223,LibreOffice,Impress,5.0.0.0.beta1,21-06-15 8:11
+92529,LibreOffice,framework,5.0.0.0.beta1,03-07-15 16:40
+92685,LibreOffice,ux-advise,5.0.0.0.beta1,11-07-15 16:03
+92785,LibreOffice,LibreOffice,5.0.0.0.beta1,16-07-15 12:53
+92817,LibreOffice,framework,5.0.0.0.beta1,18-07-15 19:41
+93529,LibreOffice,graphics stack,5.0.0.0.beta1,19-08-15 12:29
+93532,LibreOffice,graphics stack,5.0.0.0.beta1,19-08-15 12:46
+93548,LibreOffice,framework,5.0.0.0.beta1,20-08-15 17:58
+93563,LibreOffice,graphics stack,5.0.0.0.beta1,21-08-15 7:01
+93580,LibreOffice,Documentation,5.0.0.0.beta1,21-08-15 18:12
+91479,LibreOffice,graphics stack,5.0.0.0.beta1,22-05-15 13:22
+91494,LibreOffice,Writer,5.0.0.0.beta1,22-05-15 19:08
+91519,LibreOffice,Writer,5.0.0.0.beta1,23-05-15 11:53
+91660,LibreOffice,Writer,5.0.0.0.beta1,27-05-15 8:21
+91749,LibreOffice,Writer,5.0.0.0.beta1,30-05-15 11:36
+92015,LibreOffice,Writer,5.0.0.0.beta1,11-06-15 19:47
+92023,LibreOffice,Writer,5.0.0.0.beta1,12-06-15 8:34
+94520,LibreOffice,Calc,5.0.0.0.beta1,26-09-15 5:55
+91476,LibreOffice,Calc,5.0.0.0.beta1,22-05-15 12:44
+91530,LibreOffice,Writer,5.0.0.0.beta1,23-05-15 15:19
+91539,LibreOffice,Writer,5.0.0.0.beta1,23-05-15 18:41
+91541,LibreOffice,UI,5.0.0.0.beta1,23-05-15 18:57
+91548,LibreOffice,Calc,5.0.0.0.beta1,23-05-15 21:20
+91550,LibreOffice,UI,5.0.0.0.beta1,23-05-15 21:42
+91566,LibreOffice,Calc,5.0.0.0.beta1,24-05-15 7:07
+92083,LibreOffice,Impress,5.0.0.0.beta1,15-06-15 9:57
+92774,LibreOffice,Linguistic,5.0.0.0.beta2,15-07-15 20:13
+93748,LibreOffice,LibreOffice,5.0.0.0.beta2,28-08-15 14:44
+92214,LibreOffice,Calc,5.0.0.0.beta3,20-06-15 18:15
+92837,LibreOffice,Calc,5.0.0.0.beta3,20-07-15 6:47
+92199,LibreOffice,BASIC,5.0.0.0.beta3,20-06-15 6:32
+92296,LibreOffice,Calc,5.0.0.0.beta3,24-06-15 8:13
+92058,LibreOffice,Impress,5.0.0.0.beta3,14-06-15 7:42
+92067,LibreOffice,Writer,5.0.0.0.beta3,14-06-15 19:21
+92111,LibreOffice,Draw,5.0.0.0.beta3,16-06-15 12:45
+92113,LibreOffice,UI,5.0.0.0.beta3,16-06-15 13:12
+92184,LibreOffice,Impress,5.0.0.0.beta3,19-06-15 13:33
+92193,LibreOffice,Calc,5.0.0.0.beta3,19-06-15 21:20
+92196,LibreOffice,Writer,5.0.0.0.beta3,20-06-15 4:24
+92197,LibreOffice,Calc,5.0.0.0.beta3,20-06-15 5:18
+92200,LibreOffice,LibreOffice,5.0.0.0.beta3,20-06-15 7:13
+92203,LibreOffice,Base,5.0.0.0.beta3,20-06-15 8:15
+92204,LibreOffice,Writer,5.0.0.0.beta3,20-06-15 8:52
+92228,LibreOffice,Writer,5.0.0.0.beta3,21-06-15 14:24
+92229,LibreOffice,Calc,5.0.0.0.beta3,21-06-15 14:38
+92239,LibreOffice,Draw,5.0.0.0.beta3,22-06-15 6:33
+92417,LibreOffice,UI,5.0.0.0.beta3,29-06-15 9:18
+92424,LibreOffice,UI,5.0.0.0.beta3,29-06-15 11:50
+92519,LibreOffice,Writer,5.0.0.0.beta3,03-07-15 10:16
+92952,LibreOffice,UI,5.0.0.0.beta3,27-07-15 8:34
+95309,LibreOffice,LibreOffice,5.0.0.0.beta3,24-10-15 22:31
+92299,LibreOffice,Impress,5.0.0.0.beta3,24-06-15 9:32
+92306,LibreOffice,filters and storage,5.0.0.1 rc,24-06-15 13:00
+93565,LibreOffice,Writer,5.0.0.1 rc,21-08-15 8:06
+93831,LibreOffice,Calc,5.0.0.1 rc,01-09-15 8:24
+92114,LibreOffice,UI,5.0.0.1 rc,16-06-15 13:13
+92245,LibreOffice,Installation,5.0.0.1 rc,22-06-15 10:20
+92248,LibreOffice,UI,5.0.0.1 rc,22-06-15 11:46
+92272,LibreOffice,Impress,5.0.0.1 rc,23-06-15 8:54
+92276,LibreOffice,LibreOffice,5.0.0.1 rc,23-06-15 14:11
+92283,LibreOffice,Draw,5.0.0.1 rc,23-06-15 17:27
+92339,LibreOffice,Writer,5.0.0.1 rc,25-06-15 19:59
+92380,LibreOffice,Writer,5.0.0.1 rc,27-06-15 11:12
+92381,LibreOffice,Localization,5.0.0.1 rc,27-06-15 11:20
+92394,LibreOffice,Formula Editor,5.0.0.1 rc,28-06-15 6:34
+92403,LibreOffice,UI,5.0.0.1 rc,28-06-15 12:29
+92134,LibreOffice,graphics stack,5.0.0.1 rc,17-06-15 8:51
+92297,LibreOffice,UI,5.0.0.1 rc,24-06-15 8:39
+90572,LibreOffice,UI,5.0.0.1 rc,11-04-15 22:43
+92416,LibreOffice,ux-advise,5.0.0.1 rc,29-06-15 9:01
+94171,LibreOffice,ux-advise,5.0.0.1 rc,12-09-15 21:01
+92373,LibreOffice,Formula Editor,5.0.0.1 rc,27-06-15 9:32
+92405,LibreOffice,Formula Editor,5.0.0.1 rc,28-06-15 13:03
+92478,LibreOffice,Writer,5.0.0.2 rc,01-07-15 12:35
+92527,LibreOffice,LibreOffice,5.0.0.2 rc,03-07-15 15:21
+92444,LibreOffice,Writer,5.0.0.2 rc,30-06-15 8:20
+92473,LibreOffice,LibreOffice,5.0.0.2 rc,01-07-15 9:12
+92525,LibreOffice,LibreOffice,5.0.0.2 rc,03-07-15 14:16
+92526,LibreOffice,LibreOffice,5.0.0.2 rc,03-07-15 15:09
+92648,LibreOffice,Writer,5.0.0.2 rc,09-07-15 8:47
+92669,LibreOffice,Writer,5.0.0.2 rc,10-07-15 8:53
+94636,LibreOffice,Writer,5.0.0.2 rc,30-09-15 9:30
+95274,LibreOffice,ux-advise,5.0.0.2 rc,23-10-15 10:29
+89122,LibreOffice,Calc,5.0.0.2 rc,04-02-15 14:18
+92601,LibreOffice,Writer,5.0.0.2 rc,07-07-15 16:30
+94474,LibreOffice,Writer,5.0.0.2 rc,23-09-15 18:09
+94872,LibreOffice,Calc,5.0.0.2 rc,07-10-15 23:21
+92710,LibreOffice,LibreOffice,5.0.0.3 rc,13-07-15 17:52
+92853,LibreOffice,Calc,5.0.0.3 rc,21-07-15 10:17
+92720,LibreOffice,Base,5.0.0.3 rc,14-07-15 6:15
+92917,LibreOffice,Impress,5.0.0.3 rc,24-07-15 16:16
+92734,LibreOffice,Impress,5.0.0.3 rc,14-07-15 14:31
+92803,LibreOffice,LibreOffice,5.0.0.3 rc,17-07-15 13:26
+92871,LibreOffice,Printing and PDF export,5.0.0.3 rc,22-07-15 12:44
+60360,LibreOffice,Writer,5.0.0.3 rc,06-02-13 10:02
+92766,LibreOffice,Base,5.0.0.3 rc,15-07-15 15:06
+92784,LibreOffice,Base,5.0.0.3 rc,16-07-15 12:00
+92813,LibreOffice,Calc,5.0.0.3 rc,18-07-15 18:05
+92849,LibreOffice,Printing and PDF export,5.0.0.3 rc,21-07-15 1:54
+92888,LibreOffice,UI,5.0.0.3 rc,23-07-15 10:33
+92890,LibreOffice,UI,5.0.0.3 rc,23-07-15 11:25
+93083,LibreOffice,Installation,5.0.0.3 rc,02-08-15 21:49
+93085,LibreOffice,UI,5.0.0.3 rc,02-08-15 23:37
+94138,LibreOffice,Printing and PDF export,5.0.0.3 rc,11-09-15 17:31
+92873,LibreOffice,Draw,5.0.0.3 rc,22-07-15 16:04
+92903,LibreOffice,Base,5.0.0.3 rc,24-07-15 2:56
+92717,LibreOffice,Impress,5.0.0.3 rc,14-07-15 4:06
+92733,LibreOffice,LibreOffice,5.0.0.3 rc,14-07-15 14:26
+92779,LibreOffice,Calc,5.0.0.3 rc,16-07-15 2:34
+92838,LibreOffice,LibreOffice,5.0.0.3 rc,20-07-15 7:03
+93178,LibreOffice,ux-advise,5.0.0.3 rc,06-08-15 7:25
+93244,LibreOffice,ux-advise,5.0.0.3 rc,07-08-15 14:35
+92814,LibreOffice,Calc,5.0.0.3 rc,18-07-15 18:15
+93001,LibreOffice,Chart,5.0.0.4 rc,29-07-15 14:59
+93009,LibreOffice,Writer,5.0.0.4 rc,29-07-15 19:59
+92954,LibreOffice,LibreOffice,5.0.0.4 rc,27-07-15 9:11
+93092,LibreOffice,LibreOffice,5.0.0.4 rc,03-08-15 7:37
+93115,LibreOffice,Calc,5.0.0.4 rc,04-08-15 7:47
+92951,LibreOffice,ux-advise,5.0.0.4 rc,27-07-15 8:33
+93005,LibreOffice,Chart,5.0.0.4 rc,29-07-15 16:51
+93061,LibreOffice,ux-advise,5.0.0.4 rc,01-08-15 14:25
+93078,LibreOffice,Installation,5.0.0.4 rc,02-08-15 12:27
+93093,LibreOffice,Writer,5.0.0.4 rc,03-08-15 8:39
+93479,LibreOffice,Writer,5.0.0.4 rc,17-08-15 6:08
+93641,LibreOffice,Writer,5.0.0.4 rc,25-08-15 0:18
+95352,LibreOffice,UI,5.0.0.4 rc,27-10-15 6:47
+93087,LibreOffice,ux-advise,5.0.0.4 rc,03-08-15 2:29
+93089,LibreOffice,Impress,5.0.0.4 rc,03-08-15 2:38
+93090,LibreOffice,Writer,5.0.0.4 rc,03-08-15 5:13
+93099,LibreOffice,UI,5.0.0.4 rc,03-08-15 13:53
+93091,LibreOffice,LibreOffice,5.0.0.4 rc,03-08-15 5:20
+93039,LibreOffice,LibreOffice,5.0.0.4 rc,30-07-15 23:56
+93263,LibreOffice,Calc,5.0.0.5 release,08-08-15 6:39
+93491,LibreOffice,LibreOffice,5.0.0.5 release,17-08-15 19:41
+93145,LibreOffice,LibreOffice,5.0.0.5 release,05-08-15 14:17
+93348,LibreOffice,Base,5.0.0.5 release,11-08-15 9:33
+93396,LibreOffice,Base,5.0.0.5 release,12-08-15 20:08
+93719,LibreOffice,Writer,5.0.0.5 release,27-08-15 19:23
+47615,LibreOffice,Writer,5.0.0.5 release,20-03-12 14:37
+93156,LibreOffice,Draw,5.0.0.5 release,05-08-15 20:07
+93341,LibreOffice,Calc,5.0.0.5 release,11-08-15 3:20
+93151,LibreOffice,Calc,5.0.0.5 release,05-08-15 16:41
+93164,LibreOffice,Impress,5.0.0.5 release,05-08-15 23:56
+93196,LibreOffice,Calc,5.0.0.5 release,06-08-15 13:36
+93343,LibreOffice,Calc,5.0.0.5 release,11-08-15 7:00
+93355,LibreOffice,Installation,5.0.0.5 release,11-08-15 13:21
+93409,LibreOffice,Calc,5.0.0.5 release,13-08-15 12:40
+93426,LibreOffice,Calc,5.0.0.5 release,14-08-15 13:59
+93525,LibreOffice,Writer,5.0.0.5 release,19-08-15 9:22
+93552,LibreOffice,Base,5.0.0.5 release,20-08-15 21:58
+94046,LibreOffice,Writer,5.0.0.5 release,09-09-15 6:48
+94460,LibreOffice,sdk,5.0.0.5 release,23-09-15 10:26
+92915,LibreOffice,Calc,5.0.0.5 release,24-07-15 13:20
+93076,LibreOffice,LibreOffice,5.0.0.5 release,02-08-15 10:41
+93169,LibreOffice,Installation,5.0.0.5 release,06-08-15 2:17
+93221,LibreOffice,Calc,5.0.0.5 release,07-08-15 3:17
+93225,LibreOffice,ux-advise,5.0.0.5 release,07-08-15 8:16
+93277,LibreOffice,Writer,5.0.0.5 release,08-08-15 14:58
+93296,LibreOffice,Calc,5.0.0.5 release,09-08-15 11:22
+93368,LibreOffice,Calc,5.0.0.5 release,11-08-15 18:20
+93377,LibreOffice,Calc,5.0.0.5 release,12-08-15 3:48
+93450,LibreOffice,Impress,5.0.0.5 release,15-08-15 11:39
+93464,LibreOffice,Writer,5.0.0.5 release,16-08-15 13:09
+93493,LibreOffice,Writer,5.0.0.5 release,17-08-15 19:52
+93521,LibreOffice,Writer,5.0.0.5 release,19-08-15 3:39
+93537,LibreOffice,graphics stack,5.0.0.5 release,19-08-15 18:07
+93540,LibreOffice,Draw,5.0.0.5 release,20-08-15 8:32
+93653,LibreOffice,Calc,5.0.0.5 release,25-08-15 13:52
+93706,LibreOffice,Calc,5.0.0.5 release,27-08-15 10:54
+93723,LibreOffice,UI,5.0.0.5 release,27-08-15 23:16
+93759,LibreOffice,UI,5.0.0.5 release,29-08-15 7:01
+93817,LibreOffice,Writer,5.0.0.5 release,31-08-15 18:35
+93843,LibreOffice,Writer,5.0.0.5 release,01-09-15 21:00
+93959,LibreOffice,Calc,5.0.0.5 release,06-09-15 2:39
+93992,LibreOffice,Localization,5.0.0.5 release,07-09-15 14:26
+94109,LibreOffice,Writer,5.0.0.5 release,10-09-15 20:58
+94146,LibreOffice,Calc,5.0.0.5 release,11-09-15 21:15
+39894,LibreOffice,Writer,5.0.0.5 release,07-08-11 1:10
+71098,LibreOffice,Writer,5.0.0.5 release,31-10-13 16:52
+79553,LibreOffice,Writer,5.0.0.5 release,02-06-14 14:10
+79738,LibreOffice,Writer,5.0.0.5 release,06-06-14 18:39
+83378,LibreOffice,Writer,5.0.0.5 release,01-09-14 23:00
+89985,LibreOffice,Impress,5.0.0.5 release,13-03-15 10:40
+91436,LibreOffice,Impress,5.0.0.5 release,21-05-15 16:46
+93109,LibreOffice,Installation,5.0.0.5 release,03-08-15 22:49
+93142,LibreOffice,LibreOffice,5.0.0.5 release,05-08-15 13:43
+93153,LibreOffice,Writer,5.0.0.5 release,05-08-15 18:00
+93159,LibreOffice,Writer,5.0.0.5 release,05-08-15 21:40
+93172,LibreOffice,UI,5.0.0.5 release,06-08-15 4:09
+93174,LibreOffice,LibreOffice,5.0.0.5 release,06-08-15 4:47
+93185,LibreOffice,Base,5.0.0.5 release,06-08-15 8:36
+93191,LibreOffice,Calc,5.0.0.5 release,06-08-15 12:04
+93192,LibreOffice,UI,5.0.0.5 release,06-08-15 12:13
+93212,LibreOffice,Draw,5.0.0.5 release,06-08-15 19:43
+93224,LibreOffice,Writer,5.0.0.5 release,07-08-15 7:52
+93226,LibreOffice,Installation,5.0.0.5 release,07-08-15 8:23
+93229,LibreOffice,Writer,5.0.0.5 release,07-08-15 9:47
+93234,LibreOffice,Writer,5.0.0.5 release,07-08-15 11:49
+93236,LibreOffice,Writer,5.0.0.5 release,07-08-15 13:17
+93237,LibreOffice,LibreOffice,5.0.0.5 release,07-08-15 13:18
+93242,LibreOffice,Writer,5.0.0.5 release,07-08-15 14:06
+93267,LibreOffice,Writer,5.0.0.5 release,08-08-15 8:49
+93278,LibreOffice,Calc,5.0.0.5 release,08-08-15 15:19
+93279,LibreOffice,Installation,5.0.0.5 release,08-08-15 16:12
+93294,LibreOffice,Base,5.0.0.5 release,09-08-15 9:46
+93304,LibreOffice,Installation,5.0.0.5 release,09-08-15 17:09
+93328,LibreOffice,Calc,5.0.0.5 release,10-08-15 15:22
+93331,LibreOffice,LibreOffice,5.0.0.5 release,10-08-15 17:44
+93334,LibreOffice,Calc,5.0.0.5 release,10-08-15 19:24
+93342,LibreOffice,Writer,5.0.0.5 release,11-08-15 6:35
+93372,LibreOffice,Base,5.0.0.5 release,11-08-15 19:49
+93373,LibreOffice,UI,5.0.0.5 release,11-08-15 20:37
+93441,LibreOffice,Writer,5.0.0.5 release,15-08-15 8:19
+93460,LibreOffice,Writer,5.0.0.5 release,16-08-15 1:53
+93473,LibreOffice,Writer,5.0.0.5 release,16-08-15 21:40
+93502,LibreOffice,Installation,5.0.0.5 release,18-08-15 6:25
+93515,LibreOffice,Writer,5.0.0.5 release,18-08-15 17:37
+93519,LibreOffice,Impress,5.0.0.5 release,18-08-15 22:35
+93541,LibreOffice,Draw,5.0.0.5 release,20-08-15 8:35
+93564,LibreOffice,Draw,5.0.0.5 release,21-08-15 8:06
+93567,LibreOffice,Writer,5.0.0.5 release,21-08-15 8:08
+93582,LibreOffice,Writer,5.0.0.5 release,21-08-15 19:02
+93599,LibreOffice,UI,5.0.0.5 release,23-08-15 16:06
+93607,LibreOffice,Writer,5.0.0.5 release,23-08-15 18:37
+93628,LibreOffice,Writer,5.0.0.5 release,24-08-15 16:12
+93661,LibreOffice,Writer,5.0.0.5 release,25-08-15 15:41
+93664,LibreOffice,Calc,5.0.0.5 release,25-08-15 17:42
+93669,LibreOffice,Writer,5.0.0.5 release,25-08-15 23:16
+93681,LibreOffice,Impress,5.0.0.5 release,26-08-15 15:00
+93687,LibreOffice,Calc,5.0.0.5 release,26-08-15 16:44
+93693,LibreOffice,LibreOffice,5.0.0.5 release,27-08-15 0:43
+93699,LibreOffice,Calc,5.0.0.5 release,27-08-15 5:29
+93703,LibreOffice,filters and storage,5.0.0.5 release,27-08-15 9:17
+93732,LibreOffice,UI,5.0.0.5 release,28-08-15 9:14
+93752,LibreOffice,Writer,5.0.0.5 release,28-08-15 21:54
+93793,LibreOffice,LibreOffice,5.0.0.5 release,31-08-15 6:58
+93800,LibreOffice,LibreOffice,5.0.0.5 release,31-08-15 10:25
+93802,LibreOffice,Base,5.0.0.5 release,31-08-15 11:11
+93803,LibreOffice,LibreOffice,5.0.0.5 release,31-08-15 11:46
+93808,LibreOffice,Base,5.0.0.5 release,31-08-15 13:52
+93834,LibreOffice,Calc,5.0.0.5 release,01-09-15 10:04
+93854,LibreOffice,ux-advise,5.0.0.5 release,02-09-15 10:30
+93856,LibreOffice,Impress,5.0.0.5 release,02-09-15 11:30
+93864,LibreOffice,Chart,5.0.0.5 release,02-09-15 17:41
+93866,LibreOffice,UI,5.0.0.5 release,02-09-15 18:21
+93927,LibreOffice,Base,5.0.0.5 release,04-09-15 15:58
+93930,LibreOffice,Writer,5.0.0.5 release,04-09-15 21:08
+93931,LibreOffice,Writer,5.0.0.5 release,04-09-15 21:14
+93964,LibreOffice,Calc,5.0.0.5 release,06-09-15 8:09
+93968,LibreOffice,Writer,5.0.0.5 release,06-09-15 12:42
+93969,LibreOffice,LibreOffice,5.0.0.5 release,06-09-15 14:39
+94062,LibreOffice,UI,5.0.0.5 release,09-09-15 15:10
+94102,LibreOffice,Impress,5.0.0.5 release,10-09-15 16:35
+94254,LibreOffice,Chart,5.0.0.5 release,16-09-15 4:38
+94302,LibreOffice,LibreOffice,5.0.0.5 release,17-09-15 6:53
+94342,LibreOffice,Printing and PDF export,5.0.0.5 release,18-09-15 15:24
+94355,LibreOffice,Base,5.0.0.5 release,19-09-15 12:34
+94463,LibreOffice,Writer,5.0.0.5 release,23-09-15 12:34
+94493,LibreOffice,Writer,5.0.0.5 release,24-09-15 18:27
+94553,LibreOffice,Documentation,5.0.0.5 release,27-09-15 17:28
+94653,LibreOffice,Calc,5.0.0.5 release,30-09-15 20:27
+94666,LibreOffice,UI,5.0.0.5 release,01-10-15 12:20
+94839,LibreOffice,LibreOffice,5.0.0.5 release,07-10-15 2:58
+94895,LibreOffice,Base,5.0.0.5 release,08-10-15 20:35
+94902,LibreOffice,Calc,5.0.0.5 release,09-10-15 5:08
+95183,LibreOffice,Installation,5.0.0.5 release,19-10-15 17:08
+95184,LibreOffice,Installation,5.0.0.5 release,19-10-15 17:32
+95369,LibreOffice,Writer,5.0.0.5 release,27-10-15 18:26
+93128,LibreOffice,Calc,5.0.0.5 release,05-08-15 4:44
+93175,LibreOffice,UI,5.0.0.5 release,06-08-15 5:00
+93249,LibreOffice,Writer,5.0.0.5 release,07-08-15 17:16
+93252,LibreOffice,Writer,5.0.0.5 release,07-08-15 19:01
+93320,LibreOffice,Writer,5.0.0.5 release,10-08-15 10:33
+93380,LibreOffice,Impress,5.0.0.5 release,12-08-15 7:58
+93526,LibreOffice,Writer,5.0.0.5 release,19-08-15 9:47
+93555,LibreOffice,UI,5.0.0.5 release,21-08-15 3:02
+93630,LibreOffice,framework,5.0.0.5 release,24-08-15 19:12
+93734,LibreOffice,Calc,5.0.0.5 release,28-08-15 9:46
+93773,LibreOffice,UI,5.0.0.5 release,29-08-15 23:52
+93855,LibreOffice,Impress,5.0.0.5 release,02-09-15 10:47
+94714,LibreOffice,LibreOffice,5.0.0.5 release,02-10-15 22:58
+94734,LibreOffice,Writer,5.0.0.5 release,03-10-15 14:35
+93399,LibreOffice,Calc,5.0.0.5 release,12-08-15 20:34
+93738,LibreOffice,LibreOffice,5.0.0.5 release,28-08-15 11:16
+93162,LibreOffice,Calc,5.0.0.5 release,05-08-15 23:24
+93208,LibreOffice,UI,5.0.0.5 release,06-08-15 17:02
+93291,LibreOffice,Chart,5.0.0.5 release,09-08-15 6:39
+93298,LibreOffice,Calc,5.0.0.5 release,09-08-15 12:50
+93395,LibreOffice,Writer,5.0.0.5 release,12-08-15 18:27
+93561,LibreOffice,LibreOffice,5.0.0.5 release,21-08-15 5:20
+93612,LibreOffice,UI,5.0.0.5 release,24-08-15 6:48
+93623,LibreOffice,BASIC,5.0.0.5 release,24-08-15 14:07
+93692,LibreOffice,ux-advise,5.0.0.5 release,26-08-15 23:17
+93811,LibreOffice,Writer,5.0.0.5 release,31-08-15 15:31
+93911,LibreOffice,ux-advise,5.0.0.5 release,04-09-15 5:49
+94172,LibreOffice,UI,5.0.0.5 release,12-09-15 21:26
+94977,LibreOffice,ux-advise,5.0.0.5 release,12-10-15 10:10
+95062,LibreOffice,ux-advise,5.0.0.5 release,14-10-15 16:30
+95229,LibreOffice,ux-advise,5.0.0.5 release,21-10-15 14:57
+95264,LibreOffice,Calc,5.0.0.5 release,23-10-15 3:16
+93292,LibreOffice,UI,5.0.0.5 release,09-08-15 7:33
+93442,LibreOffice,UI,5.0.0.5 release,15-08-15 8:38
+93574,LibreOffice,Writer,5.0.0.5 release,21-08-15 12:33
+93622,LibreOffice,Impress,5.0.0.5 release,24-08-15 14:04
+93578,LibreOffice,UI,5.0.0.5 release,21-08-15 16:23
+95406,LibreOffice,Calc,5.0.0.5 release,29-10-15 1:17
+93420,LibreOffice,Writer,5.0.0.5 release,13-08-15 23:21
+93027,LibreOffice,filters and storage,5.0.0.5 release,30-07-15 12:07
+93878,LibreOffice,Calc,5.0.1.1 rc,03-09-15 7:59
+93371,LibreOffice,Calc,5.0.1.1 rc,11-08-15 19:41
+91789,LibreOffice,Writer,5.0.1.2 release,01-06-15 9:56
+94063,LibreOffice,Writer,5.0.1.2 release,09-09-15 15:39
+94216,LibreOffice,Installation,5.0.1.2 release,14-09-15 18:37
+94069,LibreOffice,Base,5.0.1.2 release,09-09-15 18:41
+94313,LibreOffice,Chart,5.0.1.2 release,17-09-15 15:45
+94392,LibreOffice,Impress,5.0.1.2 release,21-09-15 3:31
+93885,LibreOffice,UI,5.0.1.2 release,03-09-15 9:58
+93993,LibreOffice,ux-advise,5.0.1.2 release,07-09-15 14:30
+94035,LibreOffice,Writer,5.0.1.2 release,08-09-15 16:37
+94341,LibreOffice,Base,5.0.1.2 release,18-09-15 14:26
+94066,LibreOffice,Writer,5.0.1.2 release,09-09-15 17:17
+94890,LibreOffice,Writer,5.0.1.2 release,08-10-15 18:01
+94193,LibreOffice,Installation,5.0.1.2 release,13-09-15 17:24
+93868,LibreOffice,Impress,5.0.1.2 release,02-09-15 21:03
+93999,LibreOffice,Draw,5.0.1.2 release,07-09-15 18:08
+94033,LibreOffice,Calc,5.0.1.2 release,08-09-15 15:40
+94145,LibreOffice,Writer,5.0.1.2 release,11-09-15 20:52
+94212,LibreOffice,Writer,5.0.1.2 release,14-09-15 16:47
+94286,LibreOffice,LibreOffice,5.0.1.2 release,16-09-15 20:28
+94328,LibreOffice,Writer,5.0.1.2 release,17-09-15 20:53
+94334,LibreOffice,Writer,5.0.1.2 release,18-09-15 7:25
+94359,LibreOffice,Writer,5.0.1.2 release,19-09-15 15:14
+94360,LibreOffice,Writer,5.0.1.2 release,19-09-15 15:16
+94406,LibreOffice,Writer,5.0.1.2 release,21-09-15 11:44
+94511,LibreOffice,LibreOffice,5.0.1.2 release,25-09-15 18:37
+94603,LibreOffice,BASIC,5.0.1.2 release,29-09-15 10:22
+93543,LibreOffice,Writer,5.0.1.2 release,20-08-15 9:26
+93766,LibreOffice,Calc,5.0.1.2 release,29-08-15 18:19
+93858,LibreOffice,Calc,5.0.1.2 release,02-09-15 13:33
+93862,LibreOffice,LibreOffice,5.0.1.2 release,02-09-15 17:22
+93869,LibreOffice,Writer,5.0.1.2 release,02-09-15 21:33
+93912,LibreOffice,sdk,5.0.1.2 release,04-09-15 6:35
+94081,LibreOffice,Writer,5.0.1.2 release,09-09-15 23:53
+94094,LibreOffice,Calc,5.0.1.2 release,10-09-15 13:00
+94115,LibreOffice,Writer,5.0.1.2 release,10-09-15 22:16
+94184,LibreOffice,Writer,5.0.1.2 release,13-09-15 11:23
+94189,LibreOffice,Base,5.0.1.2 release,13-09-15 14:46
+94280,LibreOffice,Printing and PDF export,5.0.1.2 release,16-09-15 14:53
+94310,LibreOffice,Calc,5.0.1.2 release,17-09-15 13:42
+94367,LibreOffice,Calc,5.0.1.2 release,20-09-15 0:42
+94380,LibreOffice,Writer,5.0.1.2 release,20-09-15 13:51
+94437,LibreOffice,Writer,5.0.1.2 release,22-09-15 9:41
+94549,LibreOffice,LibreOffice,5.0.1.2 release,27-09-15 13:30
+94677,LibreOffice,Calc,5.0.1.2 release,01-10-15 18:50
+94842,LibreOffice,Writer,5.0.1.2 release,07-10-15 4:25
+89511,LibreOffice,Calc,5.0.1.2 release,20-02-15 22:04
+93247,LibreOffice,Impress,5.0.1.2 release,07-08-15 15:14
+93327,LibreOffice,UI,5.0.1.2 release,10-08-15 15:14
+93674,LibreOffice,Calc,5.0.1.2 release,26-08-15 8:33
+93684,LibreOffice,graphics stack,5.0.1.2 release,26-08-15 15:53
+93716,LibreOffice,filters and storage,5.0.1.2 release,27-08-15 15:31
+93727,LibreOffice,BASIC,5.0.1.2 release,28-08-15 4:54
+93756,LibreOffice,Writer,5.0.1.2 release,29-08-15 5:51
+93777,LibreOffice,Draw,5.0.1.2 release,30-08-15 1:39
+93779,LibreOffice,Writer,5.0.1.2 release,30-08-15 9:39
+93789,LibreOffice,Impress,5.0.1.2 release,30-08-15 22:11
+93810,LibreOffice,Base,5.0.1.2 release,31-08-15 15:24
+93833,LibreOffice,Writer,5.0.1.2 release,01-09-15 9:13
+93846,LibreOffice,Linguistic,5.0.1.2 release,02-09-15 1:16
+93847,LibreOffice,UI,5.0.1.2 release,02-09-15 4:05
+93883,LibreOffice,Impress,5.0.1.2 release,03-09-15 9:24
+93886,LibreOffice,Writer,5.0.1.2 release,03-09-15 10:57
+93907,LibreOffice,Writer,5.0.1.2 release,03-09-15 22:53
+93910,LibreOffice,Writer,5.0.1.2 release,03-09-15 23:54
+93925,LibreOffice,Printing and PDF export,5.0.1.2 release,04-09-15 15:43
+93951,LibreOffice,Calc,5.0.1.2 release,05-09-15 19:38
+93977,LibreOffice,LibreOffice,5.0.1.2 release,07-09-15 4:10
+93981,LibreOffice,Documentation,5.0.1.2 release,07-09-15 8:32
+93982,LibreOffice,Documentation,5.0.1.2 release,07-09-15 8:34
+93988,LibreOffice,Writer,5.0.1.2 release,07-09-15 12:15
+93998,LibreOffice,BASIC,5.0.1.2 release,07-09-15 17:40
+94038,LibreOffice,Impress,5.0.1.2 release,08-09-15 21:51
+94039,LibreOffice,Impress,5.0.1.2 release,08-09-15 22:19
+94068,LibreOffice,Installation,5.0.1.2 release,09-09-15 17:46
+94089,LibreOffice,Writer,5.0.1.2 release,10-09-15 8:39
+94096,LibreOffice,Writer,5.0.1.2 release,10-09-15 13:20
+94098,LibreOffice,Draw,5.0.1.2 release,10-09-15 14:37
+94099,LibreOffice,Calc,5.0.1.2 release,10-09-15 14:43
+94107,LibreOffice,Writer,5.0.1.2 release,10-09-15 19:24
+94112,LibreOffice,UI,5.0.1.2 release,10-09-15 21:43
+94114,LibreOffice,UI,5.0.1.2 release,10-09-15 22:15
+94120,LibreOffice,Writer,5.0.1.2 release,11-09-15 3:50
+94126,LibreOffice,Writer,5.0.1.2 release,11-09-15 9:15
+94127,LibreOffice,Writer,5.0.1.2 release,11-09-15 9:37
+94131,LibreOffice,UI,5.0.1.2 release,11-09-15 13:24
+94134,LibreOffice,Draw,5.0.1.2 release,11-09-15 15:52
+94147,LibreOffice,Draw,5.0.1.2 release,11-09-15 22:02
+94163,LibreOffice,Writer,5.0.1.2 release,12-09-15 15:09
+94179,LibreOffice,Calc,5.0.1.2 release,13-09-15 6:40
+94182,LibreOffice,Writer,5.0.1.2 release,13-09-15 9:25
+94186,LibreOffice,Calc,5.0.1.2 release,13-09-15 12:52
+94188,LibreOffice,Calc,5.0.1.2 release,13-09-15 14:00
+94192,LibreOffice,ux-advise,5.0.1.2 release,13-09-15 16:18
+94239,LibreOffice,Printing and PDF export,5.0.1.2 release,15-09-15 9:56
+94265,LibreOffice,sdk,5.0.1.2 release,16-09-15 10:11
+94266,LibreOffice,Calc,5.0.1.2 release,16-09-15 10:24
+94267,LibreOffice,Chart,5.0.1.2 release,16-09-15 10:32
+94284,LibreOffice,Calc,5.0.1.2 release,16-09-15 17:41
+94305,LibreOffice,Writer,5.0.1.2 release,17-09-15 9:56
+94309,LibreOffice,Calc,5.0.1.2 release,17-09-15 12:58
+94319,LibreOffice,Draw,5.0.1.2 release,17-09-15 18:22
+94336,LibreOffice,Chart,5.0.1.2 release,18-09-15 10:02
+94340,LibreOffice,Impress,5.0.1.2 release,18-09-15 14:24
+94363,LibreOffice,Draw,5.0.1.2 release,19-09-15 18:01
+94370,LibreOffice,Impress,5.0.1.2 release,20-09-15 3:46
+94373,LibreOffice,LibreOffice,5.0.1.2 release,20-09-15 9:17
+94390,LibreOffice,Impress,5.0.1.2 release,21-09-15 1:33
+94423,LibreOffice,Calc,5.0.1.2 release,21-09-15 20:00
+94430,LibreOffice,LibreOffice,5.0.1.2 release,22-09-15 7:54
+94436,LibreOffice,Writer,5.0.1.2 release,22-09-15 9:34
+94448,LibreOffice,ux-advise,5.0.1.2 release,22-09-15 18:05
+94449,LibreOffice,Writer,5.0.1.2 release,22-09-15 18:22
+94454,LibreOffice,Documentation,5.0.1.2 release,22-09-15 21:43
+94455,LibreOffice,Calc,5.0.1.2 release,22-09-15 21:59
+94457,LibreOffice,Draw,5.0.1.2 release,23-09-15 0:17
+94459,LibreOffice,Writer,5.0.1.2 release,23-09-15 7:46
+94466,LibreOffice,ux-advise,5.0.1.2 release,23-09-15 14:19
+94471,LibreOffice,Calc,5.0.1.2 release,23-09-15 16:46
+94480,LibreOffice,Writer,5.0.1.2 release,24-09-15 8:04
+94483,LibreOffice,Draw,5.0.1.2 release,24-09-15 10:01
+94489,LibreOffice,LibreOffice,5.0.1.2 release,24-09-15 13:46
+94499,LibreOffice,Calc,5.0.1.2 release,25-09-15 4:00
+94504,LibreOffice,Writer,5.0.1.2 release,25-09-15 11:40
+94645,LibreOffice,Localization,5.0.1.2 release,30-09-15 17:50
+94654,LibreOffice,Writer,5.0.1.2 release,30-09-15 20:40
+94663,LibreOffice,Writer,5.0.1.2 release,01-10-15 10:53
+94676,LibreOffice,ux-advise,5.0.1.2 release,01-10-15 18:42
+94684,LibreOffice,UI,5.0.1.2 release,02-10-15 0:27
+94738,LibreOffice,UI,5.0.1.2 release,03-10-15 21:40
+94742,LibreOffice,Draw,5.0.1.2 release,03-10-15 22:31
+94762,LibreOffice,Writer,5.0.1.2 release,04-10-15 19:44
+94763,LibreOffice,Writer,5.0.1.2 release,04-10-15 19:54
+94776,LibreOffice,Linguistic,5.0.1.2 release,05-10-15 5:12
+94814,LibreOffice,LibreOffice,5.0.1.2 release,06-10-15 8:41
+94865,LibreOffice,UI,5.0.1.2 release,07-10-15 15:31
+94918,LibreOffice,Draw,5.0.1.2 release,09-10-15 16:52
+94985,LibreOffice,LibreOffice,5.0.1.2 release,12-10-15 15:37
+95021,LibreOffice,BASIC,5.0.1.2 release,13-10-15 20:22
+95068,LibreOffice,Writer,5.0.1.2 release,14-10-15 18:36
+95090,LibreOffice,LibreOffice,5.0.1.2 release,15-10-15 16:20
+95208,LibreOffice,Impress,5.0.1.2 release,20-10-15 23:01
+95251,LibreOffice,Printing and PDF export,5.0.1.2 release,22-10-15 10:01
+95292,LibreOffice,Writer,5.0.1.2 release,24-10-15 10:04
+95350,LibreOffice,Writer,5.0.1.2 release,27-10-15 5:19
+95414,LibreOffice,Calc,5.0.1.2 release,29-10-15 13:21
+95415,LibreOffice,Impress,5.0.1.2 release,29-10-15 14:56
+95430,LibreOffice,Writer,5.0.1.2 release,30-10-15 5:18
+91666,LibreOffice,Draw,5.0.1.2 release,27-05-15 14:25
+93317,LibreOffice,UI,5.0.1.2 release,10-08-15 8:57
+93952,LibreOffice,Impress,5.0.1.2 release,05-09-15 20:01
+94072,LibreOffice,Writer,5.0.1.2 release,09-09-15 19:59
+94073,LibreOffice,Draw,5.0.1.2 release,09-09-15 20:40
+94129,LibreOffice,LibreOffice,5.0.1.2 release,11-09-15 11:03
+94221,LibreOffice,Draw,5.0.1.2 release,14-09-15 22:33
+94226,LibreOffice,Writer,5.0.1.2 release,15-09-15 6:52
+94242,LibreOffice,filters and storage,5.0.1.2 release,15-09-15 11:18
+94278,LibreOffice,Calc,5.0.1.2 release,16-09-15 13:29
+94339,LibreOffice,Writer,5.0.1.2 release,18-09-15 12:49
+94397,LibreOffice,Writer,5.0.1.2 release,21-09-15 8:35
+94411,LibreOffice,Writer,5.0.1.2 release,21-09-15 14:19
+94416,LibreOffice,Writer,5.0.1.2 release,21-09-15 15:38
+94473,LibreOffice,Documentation,5.0.1.2 release,23-09-15 17:49
+94512,LibreOffice,UI,5.0.1.2 release,25-09-15 19:08
+94678,LibreOffice,Writer,5.0.1.2 release,01-10-15 18:52
+94708,LibreOffice,Draw,5.0.1.2 release,02-10-15 16:43
+94737,LibreOffice,graphics stack,5.0.1.2 release,03-10-15 20:18
+95278,LibreOffice,Calc,5.0.1.2 release,23-10-15 15:51
+93827,LibreOffice,Writer,5.0.1.2 release,31-08-15 22:47
+93863,LibreOffice,LibreOffice,5.0.1.2 release,02-09-15 17:30
+93935,LibreOffice,LibreOffice,5.0.1.2 release,05-09-15 3:48
+94427,LibreOffice,UI,5.0.1.2 release,22-09-15 0:34
+94433,LibreOffice,Draw,5.0.1.2 release,22-09-15 8:12
+94501,LibreOffice,Writer,5.0.1.2 release,25-09-15 5:35
+94513,LibreOffice,Calc,5.0.1.2 release,25-09-15 20:25
+94596,LibreOffice,Writer,5.0.1.2 release,29-09-15 8:38
+95117,LibreOffice,Draw,5.0.1.2 release,16-10-15 17:28
+93936,LibreOffice,Calc,5.0.1.2 release,05-09-15 4:27
+94467,LibreOffice,LibreOffice,5.0.1.2 release,23-09-15 14:37
+94692,LibreOffice,Writer,5.0.1.2 release,02-10-15 11:25
+94084,LibreOffice,UI,5.0.1.2 release,10-09-15 1:36
+94150,LibreOffice,Writer,5.0.1.2 release,12-09-15 0:43
+94414,LibreOffice,Calc,5.0.1.2 release,21-09-15 14:58
+94175,LibreOffice,UI,5.0.1.2 release,12-09-15 22:29
+94008,LibreOffice,Calc,5.0.2.1 rc,08-09-15 4:29
+94050,LibreOffice,Printing and PDF export,5.0.2.1 rc,09-09-15 9:15
+86714,LibreOffice,Writer,5.0.2.1 rc,25-11-14 21:02
+93991,LibreOffice,graphics stack,5.0.2.1 rc,07-09-15 13:45
+93995,LibreOffice,graphics stack,5.0.2.1 rc,07-09-15 16:13
+94010,LibreOffice,Calc,5.0.2.1 rc,08-09-15 7:16
+94025,LibreOffice,Impress,5.0.2.1 rc,08-09-15 12:49
+94090,LibreOffice,LibreOffice,5.0.2.1 rc,10-09-15 11:37
+94338,LibreOffice,LibreOffice,5.0.2.1 rc,18-09-15 12:29
+94698,LibreOffice,LibreOffice,5.0.2.1 rc,02-10-15 13:10
+94766,LibreOffice,Writer,5.0.2.1 rc,04-10-15 21:03
+94826,LibreOffice,Writer,5.0.2.1 rc,06-10-15 13:16
+94860,LibreOffice,Base,5.0.2.1 rc,07-10-15 14:26
+94879,LibreOffice,LibreOffice,5.0.2.1 rc,08-10-15 11:57
+94962,LibreOffice,Calc,5.0.2.1 rc,11-10-15 17:05
+94993,LibreOffice,Writer,5.0.2.1 rc,12-10-15 20:20
+95083,LibreOffice,Calc,5.0.2.1 rc,15-10-15 10:57
+95198,LibreOffice,LibreOffice,5.0.2.1 rc,20-10-15 15:19
+95218,LibreOffice,Printing and PDF export,5.0.2.1 rc,21-10-15 11:31
+94356,LibreOffice,Localization,5.0.2.1 rc,19-09-15 13:01
+94721,LibreOffice,Writer,5.0.2.1 rc,03-10-15 6:47
+53583,LibreOffice,LibreOffice,5.0.2.1 rc,16-08-12 10:03
+94975,LibreOffice,Calc,5.0.2.1 rc,12-10-15 8:21
+94689,LibreOffice,LibreOffice,5.0.2.2 release,02-10-15 8:56
+94924,LibreOffice,Calc,5.0.2.2 release,09-10-15 21:53
+94815,LibreOffice,Calc,5.0.2.2 release,06-10-15 9:12
+94816,LibreOffice,Writer,5.0.2.2 release,06-10-15 9:39
+95220,LibreOffice,Calc,5.0.2.2 release,21-10-15 12:25
+94516,LibreOffice,UI,5.0.2.2 release,26-09-15 0:35
+95382,LibreOffice,Chart,5.0.2.2 release,28-10-15 8:33
+95070,LibreOffice,Calc,5.0.2.2 release,14-10-15 20:50
+81711,LibreOffice,Calc,5.0.2.2 release,24-07-14 10:24
+94614,LibreOffice,Calc,5.0.2.2 release,29-09-15 13:14
+94642,LibreOffice,Installation,5.0.2.2 release,30-09-15 14:27
+94705,LibreOffice,Writer,5.0.2.2 release,02-10-15 15:04
+94726,LibreOffice,LibreOffice,5.0.2.2 release,03-10-15 10:16
+94746,LibreOffice,Writer,5.0.2.2 release,04-10-15 4:58
+94783,LibreOffice,Calc,5.0.2.2 release,05-10-15 12:02
+94785,LibreOffice,Installation,5.0.2.2 release,05-10-15 12:44
+94786,LibreOffice,Calc,5.0.2.2 release,05-10-15 13:29
+94830,LibreOffice,Printing and PDF export,5.0.2.2 release,06-10-15 16:37
+94485,LibreOffice,Calc,5.0.2.2 release,24-09-15 12:20
+94589,LibreOffice,Printing and PDF export,5.0.2.2 release,29-09-15 0:18
+94711,LibreOffice,Extensions,5.0.2.2 release,02-10-15 19:30
+94824,LibreOffice,Calc,5.0.2.2 release,06-10-15 11:56
+94844,LibreOffice,Calc,5.0.2.2 release,07-10-15 5:58
+95071,LibreOffice,Writer,5.0.2.2 release,14-10-15 20:51
+95241,LibreOffice,Writer,5.0.2.2 release,22-10-15 2:43
+95298,LibreOffice,Impress,5.0.2.2 release,24-10-15 12:35
+94401,LibreOffice,UI,5.0.2.2 release,21-09-15 9:41
+94410,LibreOffice,LibreOffice,5.0.2.2 release,21-09-15 13:29
+94426,LibreOffice,Impress,5.0.2.2 release,21-09-15 21:37
+94446,LibreOffice,Base,5.0.2.2 release,22-09-15 15:43
+94462,LibreOffice,UI,5.0.2.2 release,23-09-15 12:16
+94515,LibreOffice,LibreOffice,5.0.2.2 release,25-09-15 22:21
+94531,LibreOffice,Writer,5.0.2.2 release,26-09-15 12:29
+94548,LibreOffice,Writer,5.0.2.2 release,27-09-15 12:31
+94555,LibreOffice,Base,5.0.2.2 release,27-09-15 21:22
+94556,LibreOffice,Impress,5.0.2.2 release,27-09-15 22:20
+94566,LibreOffice,Writer,5.0.2.2 release,28-09-15 9:49
+94593,LibreOffice,LibreOffice,5.0.2.2 release,29-09-15 5:42
+94621,LibreOffice,Writer,5.0.2.2 release,29-09-15 15:35
+94641,LibreOffice,Localization,5.0.2.2 release,30-09-15 13:26
+94643,LibreOffice,Calc,5.0.2.2 release,30-09-15 14:35
+94648,LibreOffice,LibreOffice,5.0.2.2 release,30-09-15 18:48
+94650,LibreOffice,Calc,5.0.2.2 release,30-09-15 20:01
+94651,LibreOffice,Writer,5.0.2.2 release,30-09-15 20:08
+94656,LibreOffice,Calc,5.0.2.2 release,30-09-15 22:12
+94670,LibreOffice,UI,5.0.2.2 release,01-10-15 15:39
+94681,LibreOffice,Writer,5.0.2.2 release,01-10-15 21:14
+94682,LibreOffice,Writer,5.0.2.2 release,01-10-15 21:36
+94683,LibreOffice,Writer,5.0.2.2 release,01-10-15 22:54
+94685,LibreOffice,Writer,5.0.2.2 release,02-10-15 0:32
+94690,LibreOffice,Writer,5.0.2.2 release,02-10-15 9:48
+94700,LibreOffice,Draw,5.0.2.2 release,02-10-15 13:24
+94723,LibreOffice,Draw,5.0.2.2 release,03-10-15 8:26
+94733,LibreOffice,Installation,5.0.2.2 release,03-10-15 13:01
+94739,LibreOffice,Printing and PDF export,5.0.2.2 release,03-10-15 21:42
+94765,LibreOffice,Writer,5.0.2.2 release,04-10-15 20:51
+94779,LibreOffice,Calc,5.0.2.2 release,05-10-15 9:24
+94803,LibreOffice,graphics stack,5.0.2.2 release,05-10-15 20:27
+94817,LibreOffice,Writer,5.0.2.2 release,06-10-15 9:44
+94821,LibreOffice,Writer,5.0.2.2 release,06-10-15 10:37
+94851,LibreOffice,Printing and PDF export,5.0.2.2 release,07-10-15 10:08
+94853,LibreOffice,Writer,5.0.2.2 release,07-10-15 10:33
+94856,LibreOffice,LibreOffice,5.0.2.2 release,07-10-15 11:44
+94863,LibreOffice,Writer,5.0.2.2 release,07-10-15 15:22
+94881,LibreOffice,Writer,5.0.2.2 release,08-10-15 12:51
+94882,LibreOffice,Writer,5.0.2.2 release,08-10-15 12:53
+94903,LibreOffice,LibreOffice,5.0.2.2 release,09-10-15 9:35
+94917,LibreOffice,Calc,5.0.2.2 release,09-10-15 15:44
+94941,LibreOffice,Draw,5.0.2.2 release,10-10-15 17:24
+94942,LibreOffice,UI,5.0.2.2 release,10-10-15 20:44
+94946,LibreOffice,Writer,5.0.2.2 release,11-10-15 7:00
+94949,LibreOffice,LibreOffice,5.0.2.2 release,11-10-15 9:58
+94964,LibreOffice,Writer,5.0.2.2 release,11-10-15 19:15
+94992,LibreOffice,Writer,5.0.2.2 release,12-10-15 19:32
+94995,LibreOffice,Printing and PDF export,5.0.2.2 release,12-10-15 20:35
+94998,LibreOffice,Writer,5.0.2.2 release,13-10-15 3:20
+95006,LibreOffice,Writer,5.0.2.2 release,13-10-15 10:58
+95011,LibreOffice,Writer,5.0.2.2 release,13-10-15 13:59
+95015,LibreOffice,Impress,5.0.2.2 release,13-10-15 16:30
+95023,LibreOffice,Draw,5.0.2.2 release,13-10-15 21:28
+95028,LibreOffice,Writer,5.0.2.2 release,14-10-15 1:49
+95042,LibreOffice,Printing and PDF export,5.0.2.2 release,14-10-15 9:32
+95053,LibreOffice,Chart,5.0.2.2 release,14-10-15 13:57
+95054,LibreOffice,Writer,5.0.2.2 release,14-10-15 14:24
+95102,LibreOffice,Writer,5.0.2.2 release,16-10-15 3:17
+95107,LibreOffice,Writer,5.0.2.2 release,16-10-15 10:06
+95111,LibreOffice,Writer,5.0.2.2 release,16-10-15 12:45
+95116,LibreOffice,LibreOffice,5.0.2.2 release,16-10-15 16:29
+95136,LibreOffice,LibreOffice,5.0.2.2 release,17-10-15 10:57
+95149,LibreOffice,Printing and PDF export,5.0.2.2 release,18-10-15 2:20
+95151,LibreOffice,LibreOffice,5.0.2.2 release,18-10-15 10:23
+95167,LibreOffice,Writer,5.0.2.2 release,19-10-15 2:20
+95179,LibreOffice,Calc,5.0.2.2 release,19-10-15 15:47
+95186,LibreOffice,Calc,5.0.2.2 release,19-10-15 20:03
+95191,LibreOffice,Base,5.0.2.2 release,20-10-15 8:20
+95195,LibreOffice,Draw,5.0.2.2 release,20-10-15 11:57
+95197,LibreOffice,LibreOffice,5.0.2.2 release,20-10-15 14:34
+95199,LibreOffice,graphics stack,5.0.2.2 release,20-10-15 15:47
+95204,LibreOffice,LibreOffice,5.0.2.2 release,20-10-15 19:47
+95209,LibreOffice,graphics stack,5.0.2.2 release,20-10-15 23:09
+95216,LibreOffice,Documentation,5.0.2.2 release,21-10-15 10:57
+95217,LibreOffice,Calc,5.0.2.2 release,21-10-15 11:18
+95221,LibreOffice,Printing and PDF export,5.0.2.2 release,21-10-15 12:30
+95235,LibreOffice,UI,5.0.2.2 release,21-10-15 20:49
+95245,LibreOffice,Writer,5.0.2.2 release,22-10-15 7:21
+95247,LibreOffice,Writer,5.0.2.2 release,22-10-15 7:59
+95253,LibreOffice,Writer,5.0.2.2 release,22-10-15 11:53
+95283,LibreOffice,Writer,5.0.2.2 release,23-10-15 21:38
+95284,LibreOffice,Calc,5.0.2.2 release,24-10-15 0:02
+95288,LibreOffice,Impress,5.0.2.2 release,24-10-15 8:11
+95293,LibreOffice,Writer,5.0.2.2 release,24-10-15 10:40
+95300,LibreOffice,Impress,5.0.2.2 release,24-10-15 13:09
+95304,LibreOffice,LibreOffice,5.0.2.2 release,24-10-15 17:22
+95311,LibreOffice,Calc,5.0.2.2 release,25-10-15 0:20
+95314,LibreOffice,LibreOffice,5.0.2.2 release,25-10-15 13:10
+95320,LibreOffice,Writer,5.0.2.2 release,26-10-15 2:22
+95325,LibreOffice,Writer,5.0.2.2 release,26-10-15 9:35
+95335,LibreOffice,Writer,5.0.2.2 release,26-10-15 19:20
+95336,LibreOffice,LibreOffice,5.0.2.2 release,26-10-15 19:30
+95340,LibreOffice,BASIC,5.0.2.2 release,26-10-15 20:14
+95343,LibreOffice,LibreOffice,5.0.2.2 release,26-10-15 21:43
+95349,LibreOffice,Writer,5.0.2.2 release,27-10-15 1:47
+95351,LibreOffice,UI,5.0.2.2 release,27-10-15 6:23
+95353,LibreOffice,UI,5.0.2.2 release,27-10-15 8:58
+95362,LibreOffice,LibreOffice,5.0.2.2 release,27-10-15 14:59
+95368,LibreOffice,Printing and PDF export,5.0.2.2 release,27-10-15 18:10
+95384,LibreOffice,Writer,5.0.2.2 release,28-10-15 8:58
+95393,LibreOffice,Writer,5.0.2.2 release,28-10-15 12:00
+95410,LibreOffice,Writer,5.0.2.2 release,29-10-15 6:01
+95412,LibreOffice,Base,5.0.2.2 release,29-10-15 11:38
+95425,LibreOffice,Chart,5.0.2.2 release,29-10-15 22:49
+95431,LibreOffice,graphics stack,5.0.2.2 release,30-10-15 5:44
+95432,LibreOffice,Calc,5.0.2.2 release,30-10-15 6:03
+94545,LibreOffice,Writer,5.0.2.2 release,27-09-15 8:31
+94570,LibreOffice,Writer,5.0.2.2 release,28-09-15 12:21
+94576,LibreOffice,LibreOffice,5.0.2.2 release,28-09-15 14:18
+94582,LibreOffice,Formula Editor,5.0.2.2 release,28-09-15 17:55
+94597,LibreOffice,Writer,5.0.2.2 release,29-09-15 9:23
+94631,LibreOffice,UI,5.0.2.2 release,30-09-15 3:55
+94884,LibreOffice,UI,5.0.2.2 release,08-10-15 14:10
+94893,LibreOffice,Impress,5.0.2.2 release,08-10-15 20:20
+95072,LibreOffice,LibreOffice,5.0.2.2 release,14-10-15 21:49
+95080,LibreOffice,UI,5.0.2.2 release,15-10-15 9:57
+95082,LibreOffice,UI,5.0.2.2 release,15-10-15 10:48
+95084,LibreOffice,UI,5.0.2.2 release,15-10-15 11:00
+95085,LibreOffice,UI,5.0.2.2 release,15-10-15 11:09
+95086,LibreOffice,UI,5.0.2.2 release,15-10-15 11:23
+95159,LibreOffice,Writer,5.0.2.2 release,18-10-15 16:47
+95173,LibreOffice,LibreOffice,5.0.2.2 release,19-10-15 9:48
+95178,LibreOffice,Writer,5.0.2.2 release,19-10-15 13:47
+95194,LibreOffice,Writer,5.0.2.2 release,20-10-15 11:34
+95207,LibreOffice,LibreOffice,5.0.2.2 release,20-10-15 20:51
+95233,LibreOffice,Calc,5.0.2.2 release,21-10-15 19:34
+95240,LibreOffice,Printing and PDF export,5.0.2.2 release,22-10-15 2:07
+95266,LibreOffice,Writer,5.0.2.2 release,23-10-15 5:02
+95267,LibreOffice,Writer,5.0.2.2 release,23-10-15 5:14
+95269,LibreOffice,Writer,5.0.2.2 release,23-10-15 6:01
+95285,LibreOffice,Writer,5.0.2.2 release,24-10-15 1:29
+95409,LibreOffice,Base,5.0.2.2 release,29-10-15 5:52
+95413,LibreOffice,Writer,5.0.2.2 release,29-10-15 12:11
+95234,LibreOffice,UI,5.0.2.2 release,21-10-15 19:43
+90165,LibreOffice,Installation,5.0.2.2 release,22-03-15 21:50
+94399,LibreOffice,Linguistic,5.0.2.2 release,21-09-15 8:46
+94699,LibreOffice,ux-advise,5.0.2.2 release,02-10-15 13:15
+94846,LibreOffice,ux-advise,5.0.2.2 release,07-10-15 7:27
+95007,LibreOffice,Calc,5.0.2.2 release,13-10-15 12:11
+95087,LibreOffice,Calc,5.0.2.2 release,15-10-15 12:10
+95141,LibreOffice,Draw,5.0.2.2 release,17-10-15 12:01
+95145,LibreOffice,filters and storage,5.0.2.2 release,17-10-15 15:56
+95171,LibreOffice,Writer,5.0.2.2 release,19-10-15 8:47
+95261,LibreOffice,Impress,5.0.2.2 release,22-10-15 15:35
+95329,LibreOffice,Writer,5.0.2.2 release,26-10-15 11:45
+95417,LibreOffice,Writer,5.0.2.2 release,29-10-15 16:31
+95076,LibreOffice,LibreOffice,5.0.2.2 release,15-10-15 3:46
+95420,LibreOffice,Calc,5.0.2.2 release,29-10-15 17:37
+95427,LibreOffice,Calc,5.0.2.2 release,30-10-15 0:36
+94669,LibreOffice,Calc,5.0.2.2 release,01-10-15 14:32
+93509,LibreOffice,Writer,5.0.3.1 rc,18-08-15 12:16
+95104,LibreOffice,Writer,5.0.3.1 rc,16-10-15 6:53
+95114,LibreOffice,filters and storage,5.0.3.1 rc,16-10-15 14:38
+95127,LibreOffice,Calc,5.0.3.1 rc,17-10-15 9:01
+95174,LibreOffice,Base,5.0.3.1 rc,19-10-15 10:35
+95257,LibreOffice,Impress,5.0.3.1 rc,22-10-15 15:11
+95372,LibreOffice,Writer,5.0.3.1 rc,27-10-15 20:15
+95374,LibreOffice,Writer,5.0.3.1 rc,27-10-15 23:53
+95379,LibreOffice,Writer,5.0.3.1 rc,28-10-15 6:30
+95376,LibreOffice,Writer,5.0.3.1 rc,28-10-15 2:35
+95258,LibreOffice,Impress,5.0.3.1 rc,22-10-15 15:14
+95259,LibreOffice,Impress,5.0.3.1 rc,22-10-15 15:20
+92304,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,24-06-15 12:20
+91770,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,31-05-15 12:02
+92687,LibreOffice,graphics stack,5.1.0.0.alpha0+ Master,11-07-15 19:33
+94843,LibreOffice,graphics stack,5.1.0.0.alpha0+ Master,07-10-15 5:29
+92257,LibreOffice,Calc,5.1.0.0.alpha0+ Master,22-06-15 15:14
+92580,LibreOffice,Base,5.1.0.0.alpha0+ Master,06-07-15 19:22
+94429,LibreOffice,Calc,5.1.0.0.alpha0+ Master,22-09-15 1:31
+94715,LibreOffice,Base,5.1.0.0.alpha0+ Master,02-10-15 23:07
+94894,LibreOffice,Impress,5.1.0.0.alpha0+ Master,08-10-15 20:28
+94898,LibreOffice,Base,5.1.0.0.alpha0+ Master,08-10-15 21:05
+95128,LibreOffice,Impress,5.1.0.0.alpha0+ Master,17-10-15 9:46
+95144,LibreOffice,Calc,5.1.0.0.alpha0+ Master,17-10-15 15:51
+93432,LibreOffice,Calc,5.1.0.0.alpha0+ Master,14-08-15 16:44
+93745,LibreOffice,UI,5.1.0.0.alpha0+ Master,28-08-15 13:07
+91925,LibreOffice,Writer,5.1.0.0.alpha0+ Master,07-06-15 23:56
+94834,LibreOffice,filters and storage,5.1.0.0.alpha0+ Master,06-10-15 18:20
+91891,LibreOffice,Impress,5.1.0.0.alpha0+ Master,06-06-15 11:21
+92147,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,18-06-15 8:03
+92198,LibreOffice,Calc,5.1.0.0.alpha0+ Master,20-06-15 5:54
+92246,LibreOffice,framework,5.1.0.0.alpha0+ Master,22-06-15 10:48
+92282,LibreOffice,Impress,5.1.0.0.alpha0+ Master,23-06-15 17:15
+92345,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,26-06-15 8:50
+93047,LibreOffice,Base,5.1.0.0.alpha0+ Master,31-07-15 9:50
+93135,LibreOffice,Draw,5.1.0.0.alpha0+ Master,05-08-15 11:52
+93660,LibreOffice,Writer,5.1.0.0.alpha0+ Master,25-08-15 15:40
+94563,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,28-09-15 8:43
+95294,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,24-10-15 11:41
+91762,LibreOffice,Impress,5.1.0.0.alpha0+ Master,31-05-15 2:23
+91812,LibreOffice,Draw,5.1.0.0.alpha0+ Master,02-06-15 13:38
+91838,LibreOffice,UI,5.1.0.0.alpha0+ Master,03-06-15 21:40
+91839,LibreOffice,UI,5.1.0.0.alpha0+ Master,03-06-15 21:43
+91841,LibreOffice,UI,5.1.0.0.alpha0+ Master,03-06-15 21:50
+91843,LibreOffice,Impress,5.1.0.0.alpha0+ Master,03-06-15 22:26
+91895,LibreOffice,Impress,5.1.0.0.alpha0+ Master,06-06-15 12:17
+91910,LibreOffice,Calc,5.1.0.0.alpha0+ Master,07-06-15 1:58
+92076,LibreOffice,filters and storage,5.1.0.0.alpha0+ Master,15-06-15 2:43
+92077,LibreOffice,filters and storage,5.1.0.0.alpha0+ Master,15-06-15 3:15
+92126,LibreOffice,Writer,5.1.0.0.alpha0+ Master,16-06-15 23:24
+92135,LibreOffice,Writer,5.1.0.0.alpha0+ Master,17-06-15 11:24
+92206,LibreOffice,Impress,5.1.0.0.alpha0+ Master,20-06-15 9:55
+92287,LibreOffice,UI,5.1.0.0.alpha0+ Master,23-06-15 22:21
+92353,LibreOffice,Writer,5.1.0.0.alpha0+ Master,26-06-15 13:40
+92516,LibreOffice,UI,5.1.0.0.alpha0+ Master,03-07-15 3:04
+92517,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,03-07-15 6:25
+92776,LibreOffice,UI,5.1.0.0.alpha0+ Master,15-07-15 21:26
+92825,LibreOffice,Documentation,5.1.0.0.alpha0+ Master,19-07-15 13:47
+92848,LibreOffice,Impress,5.1.0.0.alpha0+ Master,21-07-15 1:46
+92866,LibreOffice,UI,5.1.0.0.alpha0+ Master,22-07-15 7:10
+92906,LibreOffice,Formula Editor,5.1.0.0.alpha0+ Master,24-07-15 5:17
+92909,LibreOffice,Base,5.1.0.0.alpha0+ Master,24-07-15 7:47
+92964,LibreOffice,BASIC,5.1.0.0.alpha0+ Master,27-07-15 22:11
+93038,LibreOffice,UI,5.1.0.0.alpha0+ Master,30-07-15 21:19
+93052,LibreOffice,Calc,5.1.0.0.alpha0+ Master,31-07-15 13:30
+93054,LibreOffice,Calc,5.1.0.0.alpha0+ Master,31-07-15 17:39
+93062,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,01-08-15 14:39
+93108,LibreOffice,Documentation,5.1.0.0.alpha0+ Master,03-08-15 20:50
+93121,LibreOffice,filters and storage,5.1.0.0.alpha0+ Master,04-08-15 14:49
+93238,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,07-08-15 13:42
+93240,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,07-08-15 13:54
+93254,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,07-08-15 19:21
+93255,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,07-08-15 21:08
+93283,LibreOffice,Writer,5.1.0.0.alpha0+ Master,08-08-15 17:55
+93299,LibreOffice,Documentation,5.1.0.0.alpha0+ Master,09-08-15 13:03
+93307,LibreOffice,UI,5.1.0.0.alpha0+ Master,09-08-15 18:59
+93418,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,13-08-15 21:48
+93431,LibreOffice,Calc,5.1.0.0.alpha0+ Master,14-08-15 16:41
+93648,LibreOffice,graphics stack,5.1.0.0.alpha0+ Master,25-08-15 7:47
+93740,LibreOffice,Impress,5.1.0.0.alpha0+ Master,28-08-15 11:34
+93819,LibreOffice,Calc,5.1.0.0.alpha0+ Master,31-08-15 19:13
+93835,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,01-09-15 11:43
+93953,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,05-09-15 20:36
+93976,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,07-09-15 2:55
+93978,LibreOffice,graphics stack,5.1.0.0.alpha0+ Master,07-09-15 5:42
+94002,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,07-09-15 19:27
+94007,LibreOffice,Calc,5.1.0.0.alpha0+ Master,08-09-15 2:46
+94057,LibreOffice,Documentation,5.1.0.0.alpha0+ Master,09-09-15 14:12
+94059,LibreOffice,Documentation,5.1.0.0.alpha0+ Master,09-09-15 14:34
+94070,LibreOffice,Writer,5.1.0.0.alpha0+ Master,09-09-15 18:54
+94125,LibreOffice,Calc,5.1.0.0.alpha0+ Master,11-09-15 8:59
+94133,LibreOffice,Documentation,5.1.0.0.alpha0+ Master,11-09-15 13:57
+94164,LibreOffice,Writer,5.1.0.0.alpha0+ Master,12-09-15 15:26
+94165,LibreOffice,Writer,5.1.0.0.alpha0+ Master,12-09-15 15:37
+94272,LibreOffice,Impress,5.1.0.0.alpha0+ Master,16-09-15 12:02
+94288,LibreOffice,Chart,5.1.0.0.alpha0+ Master,16-09-15 21:16
+94294,LibreOffice,Chart,5.1.0.0.alpha0+ Master,16-09-15 23:05
+94300,LibreOffice,Chart,5.1.0.0.alpha0+ Master,17-09-15 3:52
+94322,LibreOffice,Chart,5.1.0.0.alpha0+ Master,17-09-15 18:37
+94323,LibreOffice,Writer,5.1.0.0.alpha0+ Master,17-09-15 18:47
+94330,LibreOffice,Documentation,5.1.0.0.alpha0+ Master,18-09-15 2:29
+94422,LibreOffice,UI,5.1.0.0.alpha0+ Master,21-09-15 19:49
+94438,LibreOffice,Documentation,5.1.0.0.alpha0+ Master,22-09-15 10:03
+94546,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,27-09-15 11:09
+94559,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,28-09-15 6:26
+94562,LibreOffice,Writer,5.1.0.0.alpha0+ Master,28-09-15 8:20
+94587,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,28-09-15 23:22
+94588,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,28-09-15 23:49
+94591,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,29-09-15 3:42
+94612,LibreOffice,Documentation,5.1.0.0.alpha0+ Master,29-09-15 12:35
+94632,LibreOffice,UI,5.1.0.0.alpha0+ Master,30-09-15 7:42
+94667,LibreOffice,Documentation,5.1.0.0.alpha0+ Master,01-10-15 12:28
+94691,LibreOffice,graphics stack,5.1.0.0.alpha0+ Master,02-10-15 11:04
+94773,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,05-10-15 3:14
+94774,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,05-10-15 3:30
+94871,LibreOffice,Documentation,5.1.0.0.alpha0+ Master,07-10-15 21:49
+94878,LibreOffice,UI,5.1.0.0.alpha0+ Master,08-10-15 11:52
+94899,LibreOffice,UI,5.1.0.0.alpha0+ Master,08-10-15 21:19
+94968,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,11-10-15 22:37
+95044,LibreOffice,Chart,5.1.0.0.alpha0+ Master,14-10-15 10:25
+95056,LibreOffice,Chart,5.1.0.0.alpha0+ Master,14-10-15 14:54
+95059,LibreOffice,Chart,5.1.0.0.alpha0+ Master,14-10-15 15:53
+95069,LibreOffice,Chart,5.1.0.0.alpha0+ Master,14-10-15 19:04
+95077,LibreOffice,BASIC,5.1.0.0.alpha0+ Master,15-10-15 7:07
+95093,LibreOffice,Documentation,5.1.0.0.alpha0+ Master,15-10-15 17:15
+95096,LibreOffice,Writer,5.1.0.0.alpha0+ Master,15-10-15 19:04
+95132,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,17-10-15 10:13
+95140,LibreOffice,Writer,5.1.0.0.alpha0+ Master,17-10-15 11:34
+95165,LibreOffice,UI,5.1.0.0.alpha0+ Master,19-10-15 0:41
+95168,LibreOffice,filters and storage,5.1.0.0.alpha0+ Master,19-10-15 2:50
+95210,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,20-10-15 23:48
+95321,LibreOffice,Writer,5.1.0.0.alpha0+ Master,26-10-15 4:17
+95324,LibreOffice,Chart,5.1.0.0.alpha0+ Master,26-10-15 9:22
+91894,LibreOffice,Impress,5.1.0.0.alpha0+ Master,06-06-15 12:09
+92476,LibreOffice,Documentation,5.1.0.0.alpha0+ Master,01-07-15 11:02
+92844,LibreOffice,Writer,5.1.0.0.alpha0+ Master,20-07-15 15:42
+93840,LibreOffice,Draw,5.1.0.0.alpha0+ Master,01-09-15 15:06
+94419,LibreOffice,ux-advise,5.1.0.0.alpha0+ Master,21-09-15 19:14
+95342,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,26-10-15 21:33
+91742,LibreOffice,UI,5.1.0.0.alpha0+ Master,30-05-15 8:42
+91781,LibreOffice,ux-advise,5.1.0.0.alpha0+ Master,31-05-15 17:21
+91820,LibreOffice,ux-advise,5.1.0.0.alpha0+ Master,02-06-15 21:22
+91857,LibreOffice,ux-advise,5.1.0.0.alpha0+ Master,04-06-15 13:54
+91892,LibreOffice,Impress,5.1.0.0.alpha0+ Master,06-06-15 12:00
+91893,LibreOffice,Impress,5.1.0.0.alpha0+ Master,06-06-15 12:03
+91909,LibreOffice,Impress,5.1.0.0.alpha0+ Master,07-06-15 0:21
+91923,LibreOffice,ux-advise,5.1.0.0.alpha0+ Master,07-06-15 15:43
+91983,LibreOffice,ux-advise,5.1.0.0.alpha0+ Master,10-06-15 12:17
+92051,LibreOffice,Writer,5.1.0.0.alpha0+ Master,13-06-15 21:13
+92087,LibreOffice,UI,5.1.0.0.alpha0+ Master,15-06-15 12:35
+92218,LibreOffice,UI,5.1.0.0.alpha0+ Master,20-06-15 22:57
+92219,LibreOffice,Calc,5.1.0.0.alpha0+ Master,21-06-15 0:41
+92220,LibreOffice,ux-advise,5.1.0.0.alpha0+ Master,21-06-15 2:48
+92378,LibreOffice,Chart,5.1.0.0.alpha0+ Master,27-06-15 11:04
+92406,LibreOffice,ux-advise,5.1.0.0.alpha0+ Master,28-06-15 13:48
+92439,LibreOffice,Calc,5.1.0.0.alpha0+ Master,30-06-15 1:52
+92452,LibreOffice,Calc,5.1.0.0.alpha0+ Master,30-06-15 11:52
+92453,LibreOffice,Calc,5.1.0.0.alpha0+ Master,30-06-15 11:59
+93243,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,07-08-15 14:10
+93308,LibreOffice,UI,5.1.0.0.alpha0+ Master,09-08-15 19:04
+93805,LibreOffice,UI,5.1.0.0.alpha0+ Master,31-08-15 13:17
+93844,LibreOffice,Calc,5.1.0.0.alpha0+ Master,02-09-15 0:03
+93845,LibreOffice,UI,5.1.0.0.alpha0+ Master,02-09-15 0:15
+93853,LibreOffice,Writer,5.1.0.0.alpha0+ Master,02-09-15 10:25
+94321,LibreOffice,Chart,5.1.0.0.alpha0+ Master,17-09-15 18:31
+94349,LibreOffice,ux-advise,5.1.0.0.alpha0+ Master,18-09-15 23:01
+94369,LibreOffice,ux-advise,5.1.0.0.alpha0+ Master,20-09-15 3:45
+94488,LibreOffice,Documentation,5.1.0.0.alpha0+ Master,24-09-15 13:20
+94551,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,27-09-15 15:05
+94586,LibreOffice,UI,5.1.0.0.alpha0+ Master,28-09-15 22:54
+94760,LibreOffice,ux-advise,5.1.0.0.alpha0+ Master,04-10-15 19:11
+94781,LibreOffice,ux-advise,5.1.0.0.alpha0+ Master,05-10-15 10:20
+94935,LibreOffice,Chart,5.1.0.0.alpha0+ Master,10-10-15 13:07
+95014,LibreOffice,UI,5.1.0.0.alpha0+ Master,13-10-15 15:11
+95064,LibreOffice,Documentation,5.1.0.0.alpha0+ Master,14-10-15 17:05
+95130,LibreOffice,Writer,5.1.0.0.alpha0+ Master,17-10-15 9:58
+95133,LibreOffice,Writer,5.1.0.0.alpha0+ Master,17-10-15 10:39
+95134,LibreOffice,Writer,5.1.0.0.alpha0+ Master,17-10-15 10:45
+94289,LibreOffice,Chart,5.1.0.0.alpha0+ Master,16-09-15 21:29
+95386,LibreOffice,LibreOffice,5.1.0.0.alpha0+ Master,28-10-15 9:21
+94191,LibreOffice,Documentation,5.1.0.0.alpha0+ Master,13-09-15 16:07
+92884,LibreOffice,Calc,5.1.0.0.alpha0+ Master,23-07-15 4:39
+95222,LibreOffice,graphics stack,5.1.0.0.alpha1,21-10-15 12:58
+95277,LibreOffice,Printing and PDF export,5.1.0.0.alpha1,23-10-15 13:45
+95296,LibreOffice,Chart,5.1.0.0.alpha1,24-10-15 12:03
+95301,LibreOffice,Chart,5.1.0.0.alpha1,24-10-15 13:12
+95341,LibreOffice,graphics stack,5.1.0.0.alpha1,26-10-15 20:33
+95347,LibreOffice,UI,5.1.0.0.alpha1,27-10-15 0:07
+95354,LibreOffice,Writer,5.1.0.0.alpha1,27-10-15 9:27
+95360,LibreOffice,UI,5.1.0.0.alpha1,27-10-15 12:29
+95280,LibreOffice,Writer,5.1.0.0.alpha1,23-10-15 16:39
+95337,LibreOffice,ux-advise,5.1.0.0.alpha1,26-10-15 19:46
+95403,LibreOffice,Writer,5.1.0.0.alpha1,28-10-15 22:00
